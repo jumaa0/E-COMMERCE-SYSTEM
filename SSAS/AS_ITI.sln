@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AS_ITI", "AS_ITI.dwproj", "{640D2DDE-6F67-4915-ABE5-122834A96C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640D2DDE-6F67-4915-ABE5-122834A96C41}.Development|Default.ActiveCfg = Development
+		{640D2DDE-6F67-4915-ABE5-122834A96C41}.Development|Default.Build.0 = Development
+		{640D2DDE-6F67-4915-ABE5-122834A96C41}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4663945-AABF-49B4-BC6D-1831951F5DC7}
+	EndGlobalSection
+EndGlobal
